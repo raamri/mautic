@@ -46,7 +46,8 @@ Installing Mautic is a simple three-step process:
 
 1. [Download the repository zip][download-zip] then extract the zip to your web root.
 2. Run the `composer install` command to install the required packages.
-3. Open your browser and complete the installation through the web installer.
+3. Run 'symfony server:start'
+4. Open your browser and complete the installation through the web installer.
 
 If you get stuck, check our our [general troubleshooting][troubleshooting] page. Still no joy? Join our lively [Mautic Community][community] for support and answers.
 
